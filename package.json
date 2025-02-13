@@ -8,9 +8,11 @@
   "author": "",
   "license": "ISC",
   "description": "",
+  "type": "module",
   "dependencies": {
     "@tailwindcss/cli": "^4.0.6",
     "mysql": "^2.18.1",
+    "mysql2": "^3.12.0",
     "tailwindcss": "^4.0.6"
   }
 }
